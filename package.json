@@ -1,0 +1,31 @@
+{
+  "name": "blog-system",
+  "version": "0.0.1",
+  "description": "Blog System",
+  "main": "index.js",
+  "engines": {
+    "node": "7.10.0",
+    "npm": "4.2.0"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nikolay-is/Architecture-Node.git"
+  },
+  "keywords": [
+    "blog",
+    "system"
+  ],
+  "author": "NIS",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nikolay-is/Architecture-Node/issues"
+  },
+  "homepage": "https://github.com/nikolay-is/Architecture-Node#readme",
+  "dependencies": {
+    "express": "4.15.3",
+    "mongoose": "4.10.4"
+  }
+}
